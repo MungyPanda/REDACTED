@@ -14,3 +14,5 @@ I genuenly hope that someone will see this and feel like it's good enough. Maybe
 So please enjoy whatever this is. I'll try to update frequently, especially when something important gets done.
 
 Currently some of my friends are working on UI art that I will add later on and hopefully they'll keep on helping me with these things, as art is not my strong suit.
+
+This document is used to write down notes, how tos, etc. for exploration related systems: https://docs.google.com/document/d/1CFnrnZ8oIU8JOgq3Tw6aQEZVTg1igvpN8p-sm6PZTyw/edit?usp=sharing
