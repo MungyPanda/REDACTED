@@ -1,2 +1,16 @@
 # REDACTED
 Learning UE5, making a simple "game" from scratch
+
+When I started this project, I was hoping to create a small game with a battle system and some exploration. I started going through various tutorials on youtube and found some that helped me get into it. I believe they were just based around a turn based battle system. I followed them for a bit but felt like i was not learning much. Sure it worked but I was just creating something someone was working on in front of me.
+
+At some point, when some things were working to a point, I decided to veer off and work "alone". Since the system I was following was ok, but not what I had in mind, it was supposed to teach me how to make something like this.
+
+So I started adding my own spin to it and using ChatGPT I made slow but steady progress, learning a lot along the way. IMPORTANT NOTICE, since I mentioned ChatGPT, I was never a fan of making it work for me, brainlessly copying code and hoping things work out. Considering I'm using UE5, copying blueprints is rater impossible anyway (as far as I know) so I started using it as something like a senior colleague that is taking care of me, helping me move in the right direction, telling me how to solve my problems and why after I peppered it with multiple paragraphs of my ideas for solutions (sometimes even not sending anything at all because while writing I was able to come to a conclusion myself), and it delivered some ideas that I chose to either follow, change to fit my vibe or completely scrapped. Just felt like I needed to set things straight, in case anyone reading this would right away think that I just sat there and coppied what the AI told me to do. No. I want to learn, I want to make stuff, I like problem solving and finding out the cause of that one little thing that completely ruined the last 4 hours of coding.
+
+Unfortunately, I am not really confident in myself and even knowing it, pushing through is hard. I could have shared all this so much earlier and just post updates regularly and maybe do something better, proper, for a studio already, but alas here we are. At some point though I have to begin. For some reason if I was doing this or something similar for a someone else, if I worked with other people that I could learn from as well as help them, I'd have no problem sharing and caring. But since it's just me, I always thought it can be better and that people would either not care or tell me it's extremely basic and not something I should be proud of as of yet at least, even though people that don't play games or do any computer stuff, even people who do these things, told me that it's incredible and I should be proud of myself, for doing this alone, from scratch.
+
+I genuenly hope that someone will see this and feel like it's good enough. Maybe it will inspire people to share their own work. Maybe they'll reach out to share their own experiences or better yet, allow me to pursue a dream of working on something great that would make people happy.
+
+So please enjoy whatever this is. I'll try to update frequently, especially when something important gets done.
+
+Currently some of my friends are working on UI art that I will add later on and hopefully they'll keep on helping me with these things, as art is not my strong suit.
