@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDACTED_documentation/Overview.md",
+                "file": "REDACTED_documentation/00_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "00_Overview"
             }
           }
         ]
@@ -195,15 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6d1190ddb5ceb06",
+  "active": "692c1653fe27642a",
   "lastOpenFiles": [
     "README.md",
-    "REDACTED_documentation/Overview.md",
+    "REDACTED_documentation/00_Overview.md",
     "Images.md",
     "ExplorationFlowChart 1.png",
     "ExplorationFlowChart.png",
     "Images/ExplorationFlowChart.png",
-    "REDACTED_documentation/Exploration.md",
+    "REDACTED_documentation/01_Exploration.md",
     "Images",
     "Untitled 2.base",
     "Untitled.base",
