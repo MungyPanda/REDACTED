@@ -1,0 +1,1 @@
+![[ExplorationFlowChart.png]]what is this then if not commit?
