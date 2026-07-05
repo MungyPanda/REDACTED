@@ -1,1 +1,1 @@
-![ExplorationFlowChart](Images/ExplorationFlowChart.png)
+![](Images/ExplorationFlowChart.png)
