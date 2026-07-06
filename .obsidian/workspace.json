@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDACTED_documentation/00_Overview.md",
+                "file": "REDACTED_documentation/01a_InteractionSystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Overview"
+              "title": "01a_InteractionSystem"
             }
           }
         ]
@@ -197,13 +197,17 @@
   },
   "active": "f6d1190ddb5ceb06",
   "lastOpenFiles": [
-    "Images/ExplorationFlowChart.png",
     "REDACTED_documentation/00_Overview.md",
+    "REDACTED_documentation/01a_InteractionSystem.md",
     "REDACTED_documentation/01_Exploration.md",
+    "Images/InteractionValidationFC_light.png",
+    "Images/InteractionValidationFC_light.png.opdownload",
+    "Images/InteractionValidationFC.png",
+    "Images/InteractionValidationFC.png.opdownload",
+    "Images/ExplorationFlowChart.png",
     "REDACTED_documentation/01ac_InteractionTypes.md",
     "REDACTED_documentation/01ab_InteractionActor.md",
     "REDACTED_documentation/01aa_InteractionValidation.md",
-    "REDACTED_documentation/01a_InteractionSystem.md",
     "README.md",
     "Images.md",
     "ExplorationFlowChart 1.png",
