@@ -45,7 +45,7 @@ OnEndOverlap component is removed from the array and latest is again set
 If there’s no active component, current interact component is set to none
 ## Validation (E pressed)
 
-Function [CanInteract()](REDACTED_documentation/01aaa_Functions) inside of the current interact component is called
+Function [CanInteract()](https://github.com/MungyPanda/REDACTED/blob/main/REDACTED_documentation/01aaa_Functions.md) inside of the current interact component is called
 Special action handler lock is checked
 If required special action is executed via handler
 Key item lock is checked
