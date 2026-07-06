@@ -29,15 +29,6 @@ The interaction system manages communication between the player and world intera
 	<br> 
 	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationARCH_light.png">
 </details>
-# Dependencies
-
-	Player Controller
-	General Interaction Component
-	General Interaction Actor
-	Game Instance
-	Inventory System
-	Dialogue System
-	Handler System
 # Extensibility
 
 Designed to support additional interaction types by extending the base interaction actor without modifying logic
@@ -48,3 +39,13 @@ Designed to support additional interaction types by extending the base interacti
 	Easy to extend
 	Minimal coupling
 	Consistent flow
+
+# Dependencies
+
+	Player Controller
+	General Interaction Component
+	General Interaction Actor
+	Game Instance
+	Inventory System
+	Dialogue System
+	Handler System
