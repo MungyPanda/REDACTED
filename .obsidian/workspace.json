@@ -197,11 +197,15 @@
   },
   "active": "f6d1190ddb5ceb06",
   "lastOpenFiles": [
+    "Images/InteractionCommunicationFC_light.png",
+    "Images/InteractionCommunicationFC_light.png.opdownload",
+    "Images/InteractionCommunicationFC.png",
+    "Images/InteractionCommunicationFC.png.opdownload",
+    "REDACTED_documentation/01aa_InteractionValidation.md",
+    "REDACTED_documentation/01a_InteractionSystem.md",
     "REDACTED_documentation/01_Exploration.md",
     "REDACTED_documentation/01ab_InteractionActor.md",
-    "REDACTED_documentation/01aa_InteractionValidation.md",
     "REDACTED_documentation/01ac_InteractionTypes.md",
-    "REDACTED_documentation/01a_InteractionSystem.md",
     "REDACTED_documentation/00_Overview.md",
     "REDACTED_documentation/01aaa_Functions.md",
     "().md",
@@ -222,8 +226,6 @@
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
-    "Remove-Git",
-    "Welcome.md",
-    "REDACTED_documentation"
+    "Welcome.md"
   ]
 }
