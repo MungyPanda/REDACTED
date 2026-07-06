@@ -21,7 +21,7 @@ The interaction system manages communication between the player and world intera
 	ActiveComponents (Array of BP_GeneralInteractComponent type)
 # Execution Flow
 ![IVFC](../Images/InteractionValidationFC.png)
-![Light Version|108](https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationFC_light.png)
+
 # Communication Architecture
 
 # Routing Logic
