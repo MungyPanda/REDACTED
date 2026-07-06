@@ -4,7 +4,7 @@ Handles all non-combat gameplay while the player freely moves around and explore
 # Responsibilities
 
 Character movement
-World interaction detection and initiation
+World interaction detection and initiation [01a_InteractionSystem](01a_InteractionSystem.md)
 Battle initiation
 Transition to specialized systems
 
