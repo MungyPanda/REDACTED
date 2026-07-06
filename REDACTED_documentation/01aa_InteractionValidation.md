@@ -23,7 +23,7 @@ The interaction system manages communication between the player and world intera
 
 ![IVFC|472](../Images/InteractionValidationFC.png)
 <details> 
-	<summary>🔵 Click here to expand/hide the image</summary> 
+	<summary>click here for light version link</summary> 
 	![Light Version](https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationFC_light.png)
 </details>
 
