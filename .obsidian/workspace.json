@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDACTED_documentation/01ac_InteractionTypes.md",
+                "file": "REDACTED_documentation/00_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01ac_InteractionTypes"
+              "title": "00_Overview"
             }
           }
         ]
@@ -195,15 +195,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "692c1653fe27642a",
+  "active": "f6d1190ddb5ceb06",
   "lastOpenFiles": [
-    "REDACTED_documentation/01ab_InteractionActor.md",
+    "Images/ExplorationFlowChart.png",
+    "REDACTED_documentation/00_Overview.md",
+    "REDACTED_documentation/01_Exploration.md",
     "REDACTED_documentation/01ac_InteractionTypes.md",
+    "REDACTED_documentation/01ab_InteractionActor.md",
     "REDACTED_documentation/01aa_InteractionValidation.md",
     "REDACTED_documentation/01a_InteractionSystem.md",
-    "REDACTED_documentation/01_Exploration.md",
-    "REDACTED_documentation/00_Overview.md",
-    "Images/ExplorationFlowChart.png",
     "README.md",
     "Images.md",
     "ExplorationFlowChart 1.png",
