@@ -38,7 +38,6 @@ The interaction system manages communication between the player and world intera
 	Inventory System
 	Dialogue System
 	Handler System
-
 # Extensibility
 
 Designed to support additional interaction types by extending the base interaction actor without modifying logic
