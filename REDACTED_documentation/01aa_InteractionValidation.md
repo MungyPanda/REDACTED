@@ -23,9 +23,9 @@ The interaction system manages communication between the player and world intera
 
 ![IVFC|472](../Images/InteractionValidationFC.png)
 <details> 
-	<summary>click here for light version link</summary> 
+	<summary>light version</summary> 
 	<br> 
-	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationFC_light.png" alt="LightVersion">
+	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationFC_light.png">
 </details>
 
 # Communication Architecture
