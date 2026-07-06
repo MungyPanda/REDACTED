@@ -22,7 +22,7 @@ The interaction system manages communication between the player and world intera
 # Execution Flow
 
 ![IVFC|472](../Images/InteractionValidationFC.png)
-![LightVersion](Images/InteractionValidationFC_light.png)
+![LightVersion](REDACTED/Images/InteractionValidationFC_light.png)
 
 # Communication Architecture
 
