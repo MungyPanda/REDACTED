@@ -10,6 +10,9 @@ The interaction system manages communication between the player and world intera
 	Provide consistent flow
 # Out of Scope
 
+	Battle logic
+	Inventory logic
+	Dialogue logic
 # Communication
 
 ![ICFC](../Images/InteractionCommunicationFC.png)
@@ -28,4 +31,21 @@ The interaction system manages communication between the player and world intera
 </details>
 # Dependencies
 
+	Player Controller
+	General Interaction Component
+	General Interaction Actor
+	Game Instance
+	Inventory System
+	Dialogue System
+	Handler System
+
+# Extensibility
+
+Designed to support additional interaction types by extending the base interaction actor without modifying logic
 # Design Goals
+
+	Reusable
+	Modular
+	Easy to extend
+	Minimal coupling
+	Consistent flow
