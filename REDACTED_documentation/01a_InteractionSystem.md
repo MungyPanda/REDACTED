@@ -21,6 +21,7 @@ The interaction system manages communication between the player and world intera
 	<br> 
 	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionCommunicationFC_light.png">
 </details>
+
 # Architecture Flow
 
 ![VARCH](../Images/InteractionValidationARCH.png)
@@ -29,16 +30,7 @@ The interaction system manages communication between the player and world intera
 	<br> 
 	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationARCH_light.png">
 </details>
-# Extensibility
 
-Designed to support additional interaction types by extending the base interaction actor without modifying logic
-# Design Goals
-
-	Reusable
-	Modular
-	Easy to extend
-	Minimal coupling
-	Consistent flow
 
 # Dependencies
 
@@ -49,3 +41,13 @@ Designed to support additional interaction types by extending the base interacti
 	Inventory System
 	Dialogue System
 	Handler System
+# Extensibility
+
+Designed to support additional interaction types by extending the base interaction actor without modifying logic
+# Design Goals
+
+	Reusable
+	Modular
+	Easy to extend
+	Minimal coupling
+	Consistent flow
