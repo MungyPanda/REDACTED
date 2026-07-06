@@ -59,7 +59,7 @@ Specific component owner interaction action or fail feedback is executed based o
 <details> 
 	<summary>light version</summary> 
 	<br> 
-	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationFC_light.png">
+	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationARCH_light.png">
 </details>
 # Dependencies
 
