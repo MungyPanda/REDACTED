@@ -197,15 +197,19 @@
   },
   "active": "f6d1190ddb5ceb06",
   "lastOpenFiles": [
-    "Images/InteractionValidationFC_light.png",
+    "Images/ExplorationFlowChart.png",
+    "Images/InteractionValidationARCH_light.png",
+    "Images/InteractionValidationARCH_light.png.opdownload",
+    "Images/InteractionValidationARCH.png",
+    "Images/InteractionValidationARCH.png.opdownload",
     "REDACTED_documentation/01aa_InteractionValidation.md",
+    "Images/InteractionValidationFC_light.png",
     "REDACTED_documentation/01a_InteractionSystem.md",
     "REDACTED_documentation/00_Overview.md",
     "REDACTED_documentation/01_Exploration.md",
     "Images/InteractionValidationFC_light.png.opdownload",
     "Images/InteractionValidationFC.png",
     "Images/InteractionValidationFC.png.opdownload",
-    "Images/ExplorationFlowChart.png",
     "REDACTED_documentation/01ac_InteractionTypes.md",
     "REDACTED_documentation/01ab_InteractionActor.md",
     "README.md",
@@ -218,7 +222,6 @@
     "Untitled 1.base",
     "Remove-Git",
     "Welcome.md",
-    "REDACTED_documentation",
-    "REDACTED"
+    "REDACTED_documentation"
   ]
 }
