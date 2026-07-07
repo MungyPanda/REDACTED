@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions&Events.md",
+                "file": "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_22_ValidationFunctions&Events"
+              "title": "01_23_InteractionActor"
             }
           }
         ]
@@ -198,14 +198,15 @@
   "active": "adbf6514f94a7828",
   "lastOpenFiles": [
     "REDACTED_documentation/01_Exploration/01_24_ActorFunctions.md",
+    "REDACTED_documentation/01_Exploration/01_30_Handler.md",
+    "Images/ValidationFunctionFC.png",
+    "Images/ValidationFunctionFC_light.png",
+    "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions&Events.md",
     "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
     "REDACTED_documentation/01_Exploration/01_20_InteractionSystem.md",
     "REDACTED_documentation/01_Exploration/01_21_InteractionValidation.md",
-    "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions&Events.md",
     "Images/ValidationFunctionFC_light.png.opdownload",
     "Images/ValidationFunctionFC.png.opdownload",
-    "Images/ValidationFunctionFC_light.png",
-    "Images/ValidationFunctionFC.png",
     "Images/SIComponent.png",
     "Images/RCActor.png",
     "Images/ACEOActor.png",
@@ -218,7 +219,6 @@
     "REDACTED_documentation/00_Overview",
     "REDACTED_documentation/01_Exploration/01_50_Inventory.md",
     "REDACTED_documentation/01_Exploration/01_40_Dialogue.md",
-    "REDACTED_documentation/01_Exploration/01_30_Handler.md",
     "Images/InteractionCommunicationFC_light.png",
     "Images/InteractionCommunicationFC_light.png.opdownload",
     "Images/InteractionCommunicationFC.png",
