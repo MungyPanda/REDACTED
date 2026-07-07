@@ -1,6 +1,8 @@
 # Purpose
 
-Handles all non-combat gameplay while the player freely moves around and explores the world. Including player movement, interaction with world objects, transitioning into specialized gameplay systems
+Handles all non-combat gameplay while the player freely moves around and explores the world. Including player movement, interaction with world objects, transitioning into and communicating with specialized gameplay systems.
+
+These gameplay system base their flow on data passed to them from either the [01_20_InteractionSystem](01_20_InteractionSystem.md) or via the Player Controller. Loose coupling is preferred so that references are used only when required.
 # Responsibilities
 
 Character movement
@@ -13,18 +15,10 @@ Transition to specialized systems
 	Menus
 	Shops (TBD)
 	Cutscenes (TBD)
-# Out of Scope
-
-Exploration communicates and delegates responsibilities to dedicated systems
-
-	Inventory management
-	Dialogue management
-	Battle Logic
-	Save/Load system
 # Architecture
 
 State driven gameplay
-Data drive interactions
+Data driven interactions
 Specialized systems communicating through managers
 Player Controller
 # Main Systems
