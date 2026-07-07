@@ -10,7 +10,7 @@
 ![](https://github.com/MungyPanda/REDACTED/blob/main/Images/SIComponent.png)
 ## InteractValidate
 
-![](https://github.com/MungyPanda/REDACTED/blob/main/Images/ValidationFunctionFC.png)
+![](https://github.com/MungyPanda/REDACTED/blob/main/Images/IVFC.png)
 
 <details> 
 	<summary>light version</summary> 
