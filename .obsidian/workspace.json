@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
+                "file": "REDACTED_documentation/01_Exploration/01_24_InteractionTypes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_23_InteractionActor"
+              "title": "01_24_InteractionTypes"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "adbf6514f94a7828",
   "lastOpenFiles": [
-    "REDACTED_documentation/01_Exploration/01_24_InteractionTypes.md",
-    "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
     "REDACTED_documentation/01_Exploration/01_21_InteractionValidation.md",
     "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions&Events.md",
+    "REDACTED_documentation/01_Exploration/01_24_InteractionTypes.md",
+    "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
     "REDACTED_documentation/01_Exploration/01_20_InteractionSystem.md",
     "REDACTED_documentation/01_Exploration/01_10_Overview.md",
     "Images/IVFC_light.png",

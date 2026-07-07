@@ -1,13 +1,15 @@
 
 # Purpose
 
-General Actor contains overlap events that are needed to initiate the interaction [01_22_ValidationFunctions&Events](01_22_ValidationFunctions&Events.md) which continues to validation [01_21_InteractionValidation](01_21_InteractionValidation.md) as well as functions that are overridden by children to achieve specific gameplay logic based on the type [01_24_InteractionTypes](01_24_InteractionTypes.md) where communication with other systems might be required.
+General Actor contains overlap events that are needed to initiate the interaction [01_22_ValidationFunctions&Events](01_22_ValidationFunctions&Events.md) which continues to validation [01_21_InteractionValidation](01_21_InteractionValidation.md) as well as functions that are overridden by children to achieve specific gameplay logic based on the type [01_24_InteractionTypes](01_24_InteractionTypes.md) where communication with other systems might be required. Some gameplay system also require the active interactable actor's values and some change them 
 
 # Responsibilities
 
 	Player overlap
 	Execute specific gameplay logic
 	Pass values to other systems
+	Provide children's values
+	Adjust childnren's values
 
 # Dependencies
 
