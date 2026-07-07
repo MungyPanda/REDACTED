@@ -1,6 +1,7 @@
 # Purpose
 
 Validation makes sure the player is overlapping a valid interactable world object and runs through multiple checks to then execute the correct owner's function [01_23_InteractionActor](01_23_InteractionActor.md). Since validation is separated from gameplay, the same pipeline can be reused for all interaction types and additional features can be added.
+
 # Responsibilities
 
 	Detect interactable objects
@@ -8,13 +9,15 @@ Validation makes sure the player is overlapping a valid interactable world objec
 	Maintain interaction priority
 	Validate conditions
 	Route execution to interaction actors
+
 # Key Variables
 
 	CurrentInteractComponent (BP_GeneralInteractComponent type)
 	ActiveComponents (Array of BP_GeneralInteractComponent type)
+
 # Execution Flow
 
-![IVFC|472](InteractionValidationFC.png)
+![IVFC|472](https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationFC.png)
 <details> 
 	<summary>light version</summary> 
 	<br> 
@@ -27,6 +30,7 @@ Player Controller owns the current interact component reference and the array of
 Interaction references are registered through collision overlap
 Player Controller calls component when interaction starts
 Interaction actors execute their own gameplay, communicating with Player Controller or managers
+
 # Routing Logic
 
 ## Target Selection (actor overlap)
@@ -48,12 +52,14 @@ If required inventory is checked for the item and quantity
 ## Execution (after validation)
 
 Specific component owner interaction action or fail feedback is executed [01_24_ActorFunctions](01_24_ActorFunctions.md) based on the results of validation. Interaction system does not participate in gameplay logic, only validates and tells the interaction actor [01_23_InteractionActor](01_23_InteractionActor.md) what should follow next
+
 # Dependencies
 
 	Player Controller
 	Interaction component
 	Interaction actors
 	Collision overlap events
+
 # Design Goals
 
 	Modular
@@ -61,6 +67,7 @@ Specific component owner interaction action or fail feedback is executed [01_24_
 	Extendable
 	Reusable flow
 	Data driven configuration
+
 # Notes
 
 The component's validation inside of the component is a nice feature that can be separated from the actor itself to make sure this can be reused for others. Some interaction types might not require this feature at present but realistically every interaction may include a special action, for example a cutscene, spawn item, etc. that are not directly connected to the interaction flow. At the beginning every interaction type had it's own interaction component and most of the logic was kept there while the actor only took care of the visual setup and passing information that was edited via the details panel. Later, when revisiting this system, a lot of the logic was moved to the general actor, since interaction execution and fail feedback as of right now are actually interaction type specific and the components could be culled and only the general one used for the purposes of validation.

@@ -3,6 +3,7 @@
 Handles all non-combat gameplay while the player freely moves around and explores the world. Including player movement, interaction with world objects, transitioning into and communicating with specialized gameplay systems.
 
 These gameplay system base their flow on data passed to them from either the [01_20_InteractionSystem](01_20_InteractionSystem.md) or via the Player Controller. Loose coupling is preferred so that references are used only when required.
+
 # Responsibilities
 
 Character movement
@@ -15,12 +16,14 @@ Transition to specialized systems
 	Menus
 	Shops (TBD)
 	Cutscenes (TBD)
+
 # Architecture
 
 State driven gameplay
 Data driven interactions
 Specialized systems communicating through managers
 Player Controller
+
 # Main Systems
 
 	Movement
@@ -29,6 +32,7 @@ Player Controller
 	Inventory
 	Menu
 	Handler
+
 # Design Goals
 
 	Modular
@@ -36,6 +40,7 @@ Player Controller
 	Data driven
 	Easy to extend
 	Designer Friendly
+
 # Future Improvements
 
 Reduce coupling between gameplay systems
