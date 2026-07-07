@@ -10,7 +10,7 @@ The interaction system manages communication between the player and world intera
 	Provide consistent flow
 # Communication
 
-![ICFC](../Images/InteractionCommunicationFC.png)
+![](https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionCommunicationFC.png)
 <details> 
 	<summary>light version</summary> 
 	<br> 
