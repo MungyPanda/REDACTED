@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
+                "file": "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions&Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_23_InteractionActor"
+              "title": "01_22_ValidationFunctions&Events"
             }
           }
         ]
@@ -197,12 +197,17 @@
   },
   "active": "adbf6514f94a7828",
   "lastOpenFiles": [
+    "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
+    "Images/IVFC_light.png",
+    "Images/IVFC.png",
+    "Images/IVFC.png.opdownload",
+    "Images/IV_light.png",
+    "Images/IV_light.png.opdownload",
     "REDACTED_documentation/01_Exploration/01_24_ActorFunctions.md",
     "REDACTED_documentation/01_Exploration/01_30_Handler.md",
     "Images/ValidationFunctionFC.png",
     "Images/ValidationFunctionFC_light.png",
     "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions&Events.md",
-    "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
     "REDACTED_documentation/01_Exploration/01_20_InteractionSystem.md",
     "REDACTED_documentation/01_Exploration/01_21_InteractionValidation.md",
     "Images/ValidationFunctionFC_light.png.opdownload",
@@ -221,16 +226,11 @@
     "REDACTED_documentation/01_Exploration/01_40_Dialogue.md",
     "Images/InteractionCommunicationFC_light.png",
     "Images/InteractionCommunicationFC_light.png.opdownload",
-    "Images/InteractionCommunicationFC.png",
     "Images/InteractionCommunicationFC.png.opdownload",
     "REDACTED_documentation/01ac_InteractionTypes.md",
     "().md",
-    "Images/ExplorationFlowChart.png",
-    "Images/InteractionValidationARCH_light.png",
     "Images/InteractionValidationARCH_light.png.opdownload",
     "Images/InteractionValidationARCH.png.opdownload",
-    "Images/InteractionValidationFC_light.png.opdownload",
-    "Images/InteractionValidationFC.png.opdownload",
     "Images.md",
     "Welcome.md"
   ]
