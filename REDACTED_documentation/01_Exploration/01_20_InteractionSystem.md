@@ -1,6 +1,6 @@
 # Purpose
 
-The interaction system manages communication between the player and world interaction objects. It detects valid interactable world objects [01_20_InteractionSystem](01_20_InteractionSystem.md), validates conditions [01_21_InteractionValidation](01_21_InteractionValidation.md), calls special interaction logic [01_30_Handler](01_30_Handler.md) and routes execution to the appropriate actor [01_23_InteractionActor](01_23_InteractionActor.md) and specialized systems while keeping the logic modular and reusable.
+The interaction system manages communication between the player and world interaction objects. It detects valid interactable world objects, validates conditions [01_21_InteractionValidation](01_21_InteractionValidation.md), calls special interaction logic [01_30_Handler](01_30_Handler.md) and routes execution to the appropriate actor [01_23_InteractionActor](01_23_InteractionActor.md) and specialized systems while keeping the logic modular and reusable.
 # Responsibilities
 
 	Detect available interactions
