@@ -1,7 +1,7 @@
 
 # Purpose
 
-Validation makes sure the player is overlapping a valid interactable world object and runs through multiple checks to then execute the correct owner's function [01ab_InteractionActor](01ab_InteractionActor.md). Since validation is separated from gameplay, the same pipeline can be reused for all interaction types
+Validation makes sure the player is overlapping a valid interactable world object and runs through multiple checks to then execute the correct owner's function [01bb_InteractionActor](01bb_InteractionActor.md). Since validation is separated from gameplay, the same pipeline can be reused for all interaction types
 # Responsibilities
 
 	Detect interactable objects
@@ -21,7 +21,7 @@ Validation makes sure the player is overlapping a valid interactable world objec
 	ActiveComponents (Array of BP_GeneralInteractComponent type)
 # Execution Flow
 
-![IVFC|472](../Images/InteractionValidationFC.png)
+![IVFC|472](InteractionValidationFC.png)
 <details> 
 	<summary>light version</summary> 
 	<br> 
@@ -36,7 +36,7 @@ Player Controller calls component when interaction starts
 Interaction actors execute their own gameplay, communicating with Player Controller or managers
 # Routing Logic
 
-[01aaa_Functions](01aaa_Functions.md)
+[01bc_Functions](01bc_Functions.md)
 ## Target Selection (actor overlap)
 
 Interaction actors contain collision spheres

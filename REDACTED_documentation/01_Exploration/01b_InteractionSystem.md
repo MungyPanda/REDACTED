@@ -15,7 +15,7 @@ The interaction system manages communication between the player and world intera
 	Dialogue logic
 # Communication
 
-![ICFC](../Images/InteractionCommunicationFC.png)
+![ICFC](InteractionCommunicationFC.png)
 <details> 
 	<summary>light version</summary> 
 	<br> 
@@ -24,7 +24,7 @@ The interaction system manages communication between the player and world intera
 
 # Architecture Flow
 
-![VARCH](../Images/InteractionValidationARCH.png)
+![VARCH](InteractionValidationARCH.png)
 <details> 
 	<summary>light version</summary> 
 	<br> 
