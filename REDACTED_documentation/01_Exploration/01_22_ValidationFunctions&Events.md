@@ -15,5 +15,5 @@
 <details> 
 	<summary>light version</summary> 
 	<br> 
-	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/InteractionValidationFC_light.png">
+	<img src="https://github.com/MungyPanda/REDACTED/blob/main/Images/IVFC_light.png">
 </details>
