@@ -51,7 +51,7 @@ Key item lock is checked
 If required inventory is checked for the item and quantity
 ## Execution (after validation)
 
-Specific component owner interaction action or fail feedback is executed [01_24_ActorFunctions](01_24_ActorFunctions.md) based on the results of validation. Interaction system does not participate in gameplay logic, only validates and tells the interaction actor [01_23_InteractionActor](01_23_InteractionActor.md) what should follow next
+Specific component owner interaction action or fail feedback is executed [01_24_InteractionTypes](01_24_InteractionTypes.md) based on the results of validation. Interaction system does not participate in gameplay logic, only validates and tells the interaction actor [01_23_InteractionActor](01_23_InteractionActor.md) what should follow next
 
 # Dependencies
 
