@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_22_ValidationFunctions"
+              "title": "README"
             }
           }
         ]
@@ -197,13 +197,13 @@
   },
   "active": "adbf6514f94a7828",
   "lastOpenFiles": [
+    "REDACTED_documentation/01_Exploration/01_60_Menu.md",
+    "REDACTED_documentation/01_Exploration.md",
+    "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions.md",
     "REDACTED_documentation/01_Exploration/01_21_InteractionValidation.md",
     "REDACTED_documentation/01_Exploration/01_20_InteractionSystem.md",
     "REDACTED_documentation/01_Exploration/01_10_Overview.md",
-    "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions.md",
-    "REDACTED_documentation/01_Exploration.md",
     "REDACTED_documentation/01_Exploration/01_24_ActorFunctions.md",
-    "REDACTED_documentation/01_Exploration/01_60_Menu.md",
     "REDACTED_documentation/01_Exploration",
     "REDACTED_documentation/00_Overview",
     "REDACTED_documentation/01_Exploration/01_50_Inventory.md",
