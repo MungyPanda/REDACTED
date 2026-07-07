@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions.md",
+                "file": "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions&Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_22_ValidationFunctions"
+              "title": "01_22_ValidationFunctions&Events"
             }
           }
         ]
@@ -197,12 +197,21 @@
   },
   "active": "adbf6514f94a7828",
   "lastOpenFiles": [
-    "REDACTED_documentation/01_Exploration/01_20_InteractionSystem.md",
+    "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
     "REDACTED_documentation/01_Exploration/01_21_InteractionValidation.md",
+    "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions&Events.md",
+    "Images/ValidationFunctionFC_light.png",
+    "Images/ValidationFunctionFC_light.png.opdownload",
+    "Images/ValidationFunctionFC.png",
+    "Images/ValidationFunctionFC.png.opdownload",
+    "Images/SIComponent.png",
+    "Images/RCActor.png",
+    "Images/ACEOActor.png",
+    "Images/OCBOActor.png",
+    "REDACTED_documentation/01_Exploration/01_20_InteractionSystem.md",
     "README.md",
     "REDACTED_documentation/01_Exploration/01_60_Menu.md",
     "REDACTED_documentation/01_Exploration.md",
-    "REDACTED_documentation/01_Exploration/01_22_ValidationFunctions.md",
     "REDACTED_documentation/01_Exploration/01_10_Overview.md",
     "REDACTED_documentation/01_Exploration/01_24_ActorFunctions.md",
     "REDACTED_documentation/01_Exploration",
@@ -210,7 +219,6 @@
     "REDACTED_documentation/01_Exploration/01_50_Inventory.md",
     "REDACTED_documentation/01_Exploration/01_40_Dialogue.md",
     "REDACTED_documentation/01_Exploration/01_30_Handler.md",
-    "REDACTED_documentation/01_Exploration/01_23_InteractionActor.md",
     "Images/InteractionCommunicationFC_light.png",
     "Images/InteractionCommunicationFC_light.png.opdownload",
     "Images/InteractionCommunicationFC.png",
@@ -220,17 +228,10 @@
     "Images/ExplorationFlowChart.png",
     "Images/InteractionValidationARCH_light.png",
     "Images/InteractionValidationARCH_light.png.opdownload",
-    "Images/InteractionValidationARCH.png",
     "Images/InteractionValidationARCH.png.opdownload",
-    "Images/InteractionValidationFC_light.png",
     "Images/InteractionValidationFC_light.png.opdownload",
-    "Images/InteractionValidationFC.png",
     "Images/InteractionValidationFC.png.opdownload",
     "Images.md",
-    "ExplorationFlowChart 1.png",
-    "ExplorationFlowChart.png",
-    "Images",
-    "Untitled 2.base",
     "Welcome.md"
   ]
 }

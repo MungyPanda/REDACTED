@@ -35,7 +35,7 @@ Interaction actors execute their own gameplay, communicating with Player Control
 
 ## Target Selection (actor overlap)
 
-Overlapping logic happens inside of the Interaction Actor [01_23_InteractionActor](01_23_InteractionActor.md) and uses specific functions [01_24_ActorFunctions](01_24_ActorFunctions.md) as well as communication with the Player Controller
+Overlapping logic happens inside of the Interaction Actor [01_23_InteractionActor](01_23_InteractionActor.md) and uses specific functions [01_22_ValidationFunctions&Events](01_22_ValidationFunctions&Events.md) to manage overlapped actors and also provides info to Player Controller
 
 Interaction actors contain collision spheres
 OnBeginOverlap component that belongs to the specific interaction actor is added to array
@@ -44,7 +44,7 @@ OnEndOverlap component is removed from the array and latest is again set
 If there’s no active component, current interact component is set to none
 ## Validation (E pressed)
 
-Function CanInteract() [01_22_ValidationFunctions](01_22_ValidationFunctions.md) inside of the current interact component is called
+Function CanInteract() [01_22_ValidationFunctions&Events](01_22_ValidationFunctions&Events.md) inside of the current interact component is called
 Special action handler lock is checked
 If required special action is executed via handler
 Key item lock is checked
