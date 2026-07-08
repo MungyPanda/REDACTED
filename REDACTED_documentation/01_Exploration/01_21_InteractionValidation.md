@@ -12,8 +12,8 @@ Validation makes sure the player is overlapping a valid interactable world objec
 
 # Key Variables
 
-	CurrentInteractComponent (BP_GeneralInteractComponent type)
-	ActiveComponents (Array of BP_GeneralInteractComponent type)
+	CurrentInteractComponent - (BP_GeneralInteractComponent type)
+	ActiveComponents - (Array of BP_GeneralInteractComponent types)
 
 # Execution Flow
 

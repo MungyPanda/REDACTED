@@ -1,7 +1,13 @@
 
 # Purpose
 
-General Actor contains overlap events that are needed to initiate the interaction [01_22_ValidationFunctions&Events](01_22_ValidationFunctions&Events.md) which continues to validation [01_21_InteractionValidation](01_21_InteractionValidation.md) as well as functions that are overridden by children to achieve specific gameplay logic based on the type [01_24_InteractionTypes](01_24_InteractionTypes.md) where communication with other systems might be required. Some gameplay system also require the active interactable actor's values and some change them 
+General Actor contains overlap events that are needed to initiate the interaction [01_22_ValidationFunctions&Events](01_22_ValidationFunctions&Events.md) which continues to validation [01_21_InteractionValidation](01_21_InteractionValidation.md) as well as functions that are overridden by children to achieve specific gameplay logic based on the type [01_24_InteractionTypes](01_24_InteractionTypes.md) where communication with other systems might be required. Some gameplay system also require the active interactable actor's values and some change them.
+
+# Functions
+
+ExecuteInteraction function is fully overridden by the child and the parent only provides references
+
+FailFeedback function has an input Feedback ID name which is a row name of a data table FeedbackInteraction that is passed by the child to the parent function where it is then used to call a Player Controller function FeedbackWidgetLogic that shows the text on screen
 
 # Responsibilities
 
