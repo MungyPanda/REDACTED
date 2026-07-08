@@ -49,7 +49,7 @@ When interacted with add certain items from the pickup values array into the inv
 
 ## Purpose
 
-Actor that provides the player with text based information and flavour. Multiple variations based on the [01_40_Dialogue](01_40_Dialogue.md) manager setup
+Actor that provides the player with text based information and flavour. Multiple variations based on the [01_40_Dialogue](01_40_Dialogue.md) manager setup. May also execute special logic via [01_30_Handler](01_30_Handler.md)
 
 ## Key Variables
 
