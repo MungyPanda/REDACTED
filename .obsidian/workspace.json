@@ -195,8 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "692c1653fe27642a",
+  "active": "adbf6514f94a7828",
   "lastOpenFiles": [
+    "Videos/IntroductionREDACTED.mp4",
+    "README.md",
     "Videos",
     "REDACTED_documentation/01_Exploration/01_24_InteractionTypes.md",
     "REDACTED_documentation/00_Overview/Project Overview.md",
@@ -219,7 +221,6 @@
     "Images/RCActor.png",
     "Images/ACEOActor.png",
     "Images/OCBOActor.png",
-    "README.md",
     "REDACTED_documentation/01_Exploration/01_60_Menu.md",
     "REDACTED_documentation/01_Exploration.md",
     "REDACTED_documentation/01_Exploration",
@@ -231,8 +232,6 @@
     "Images/InteractionCommunicationFC.png.opdownload",
     "REDACTED_documentation/01ac_InteractionTypes.md",
     "().md",
-    "Images/InteractionValidationARCH_light.png.opdownload",
-    "Images/InteractionValidationARCH.png.opdownload",
     "Images.md",
     "Welcome.md"
   ]
